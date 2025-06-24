@@ -15,6 +15,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Text Change")
             Text("Test2 Text")
+            Text("Test3 Text for remote test")
         }
         .padding()
     }
